@@ -1,0 +1,14 @@
+# Virtual Environment
+Pipfile
+Pipfile.lock
+
+# Others
+__pycache__/
+important.txt
+setup_test.py
+testes.py
+backup.txt
+MKT_test.csv
+
+# Folders
+images
