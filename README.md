@@ -29,7 +29,7 @@
 
 ## Cuidados Iniciais
 
-Antes de prosseguir com a utilização do bot, certifique-se de instalar todas as depêndencias presentes no arquivo **requirements.txt**.
+Antes de prosseguir com a utilização do bot, certifique-se de instalar todas as dependências presentes no arquivo **requirements.txt**.
 
 Para a devida utilização do bot, faz-se necessário o uso de um token único, disponibilizado após a criação de uma aplicação no [Portal de Desenvoldores](https://discord.com/developers/applications) do Discord.
 
